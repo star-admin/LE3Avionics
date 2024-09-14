@@ -7,9 +7,12 @@ All testing code / code that is "Beta" is going to be stored in the following fo
 #1. Full System Testing
 #2. Modular Testing
 
-~From the second that we have a successful full system test, all contributions to the "Master Branch" of any system WILL FREEZE
+**From the second that we have a successful full system test, all contributions to the "Master Branch" of any system WILL FREEZE
+**
 
-In ^^^ situation, please make edits as follows:
+**In ^^^ situation, please make edits as follows:
+**
+
 1. Make a branch with
    - your name
    - the edit you want to make
