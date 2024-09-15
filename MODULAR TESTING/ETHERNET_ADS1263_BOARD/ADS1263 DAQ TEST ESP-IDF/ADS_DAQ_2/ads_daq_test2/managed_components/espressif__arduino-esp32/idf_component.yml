@@ -1,0 +1,22 @@
+description: Arduino core for ESP32, ESP32-S and ESP32-C series of SoCs
+files:
+  exclude:
+  - '**/*'
+  include:
+  - cores/**/*
+  - variants/esp32/**/*
+  - variants/esp32s2/**/*
+  - variants/esp32s3/**/*
+  - variants/esp32c3/**/*
+  - libraries/**/*
+  - CMakeLists.txt
+  - Kconfig.projbuild
+tags:
+- arduino
+targets:
+- esp32
+- esp32s2
+- esp32s3
+- esp32c3
+url: https://github.com/espressif/arduino-esp32
+version: 2.0.14
