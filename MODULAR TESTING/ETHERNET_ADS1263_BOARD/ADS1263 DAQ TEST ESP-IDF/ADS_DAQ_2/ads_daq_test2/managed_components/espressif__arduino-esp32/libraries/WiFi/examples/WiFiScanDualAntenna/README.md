@@ -1,6 +1,6 @@
 # WiFiScan Example
 
-This example demonstrates how to use the WiFi library to scan available WiFi networks and print the results.
+This example demonstrates how to use the Wi-Fi library to scan available Wi-Fi networks and print the results.
 
 This example shows the basic functionality of the dual antenna capability.
 
@@ -41,7 +41,7 @@ scan done
 1: IoTNetwork (-62)*
 2: WiFiSSID (-62)*
 3: B3A7992 (-63)*
-4: WiFi (-63) 
+4: WiFi (-63)
 5: IoTNetwork2 (-64)*
 ...
 ```

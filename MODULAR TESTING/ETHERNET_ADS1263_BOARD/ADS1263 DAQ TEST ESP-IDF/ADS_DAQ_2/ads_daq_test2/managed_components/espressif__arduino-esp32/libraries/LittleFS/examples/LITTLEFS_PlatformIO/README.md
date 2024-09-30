@@ -1,8 +1,8 @@
 # How to run on PlatformIO IDE
 
-- Download and extract to this project root a **mklittlefs** executable for your OS [from a zipped binary here](https://github.com/earlephilhower/mklittlefs/releases) 
+- Download and extract to this project root a **mklittlefs** executable for your OS [from a zipped binary here](https://github.com/earlephilhower/mklittlefs/releases)
 - Open **LITTLEFS_PlatformIO** folder
-- Run PlatformIO project task: **Upload Filesystem Image** 
+- Run PlatformIO project task: **Upload Filesystem Image**
 - Run PlatformIO project task: **Upload and Monitor**
 - You will see a Serial output like:
 ```
@@ -65,4 +65,4 @@ Deleting file: /test.txt
 - file deleted
 Test complete
 ```
-- If you have a module with more than 4MB flash, you can uncomment **partitions_custom.csv** in **platformio.ini** and modify the csv file accordingly
+- If you have a module with more than 4 MB flash, you can uncomment **partitions_custom.csv** in **platformio.ini** and modify the csv file accordingly
